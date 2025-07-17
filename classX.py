@@ -1,0 +1,1 @@
+print("Hello I'm Birhanu, a software engineer from Ethiopia. I love coding and I'm excited to share my journey with you!")
